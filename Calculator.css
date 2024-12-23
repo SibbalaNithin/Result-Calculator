@@ -48,3 +48,19 @@
     border-radius: 10px;
     margin: 10px;
 }
+
+body{
+    background-image: url(download5);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.form{
+    position: fixed;
+    top: 150px;
+    left: 500px;
+    width: 450px;
+    border: 1px solid black;
+    padding: 20px;
+    left: 30%;
+    right: 30%;
+}
