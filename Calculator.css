@@ -1,0 +1,50 @@
+.invalidmsg{
+    background-color: skyblue;
+    border: 2px solid black;
+    text-align: center;
+    font-size: large;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.successmsg{
+    background-color: greenyellow;
+    border: 2px solid black;
+    text-align: center;
+    font-size: large;
+    border-radius: 10px;
+    margin: 10px;
+}
+.Firstmsg{
+    background-color: brown;
+    border: 2px solid black;
+    text-align: center;
+    font-size: large;
+    border-radius: 10px;
+    margin: 10px;
+}
+.Secondmsg{
+    background-color: grey;
+    border: 2px solid black;
+    text-align: center;
+    font-size: large;
+    border-radius: 10px;
+    margin: 10px;
+}
+.Thirdmsg{
+    background-color: red;
+    border: 2px solid black;
+    text-align: center;
+    font-size: large;
+    border-radius: 10px;
+    margin: 10px;
+}
+ 
+.resultmsg{
+    background-color: gold;
+    border: 2px solid black;
+    text-align: center;
+    font-size: large;
+    border-radius: 10px;
+    margin: 10px;
+}
